@@ -14,8 +14,10 @@ My CPP template for competitive programming.
   
 Lets say, we want to open custom snippets for the language GO. Then we can do:
 
-1.Hit > command + p
-2.Type: go.json + enter And you land on the custom snippet page
+<ol>
+  <li>Hit > command + p</li>
+ <li>Type: go.json + enter And you land on the custom snippet page</li>
+</ol>
   
   
   <b>Snippets are defined in a JSON format and stored in a per-user (languageId).json file. For example, Markdown snippets go in a markdown.json file.<b>
